@@ -46,6 +46,7 @@ module.exports = {
 					filename: "static/fonts/[hash][ext][query]",
 				},
 			},
+			
 		],
 	},
 	plugins: [
